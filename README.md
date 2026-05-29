@@ -1,13 +1,10 @@
+## Additional Program
 
-Implemented a Java program demonstrating OOP concepts such as:
+### OOP Concepts Demonstration
 
-Inheritance
-Method Overriding
-Polymorphism
-Object Creation
+This program demonstrates:
 
-Tools & Technologies Used:
-
-Java
-VS Code
-GitHub
+* Inheritance
+* Method Overriding
+* Polymorphism
+* Object Creation
